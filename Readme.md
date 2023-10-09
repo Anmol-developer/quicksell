@@ -1,4 +1,4 @@
 # My React App
 
-Welcome to my React app hosted on GitHub Pages.
-[Link to the app](https://Anmol-developer.github.io/quicksell)
+Checkout the Kanban Board App hosted on netlify.
+[Link to the app](https://kanbanboard-by-anmol.netlify.app/)
